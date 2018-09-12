@@ -20,13 +20,13 @@ int main (){
 	printf("Digite 'x'(operação)'y':\n");
 	scanf("%d %c %d",&x, sinal, &y);
 	if(sinal == "+"){
-		printf ("%lf"soma(x,y));
+		printf ("%lf",soma(x,y));
 	} else if(sinal == "-"){
-		printf ("%lf"sub(x,y));
+		printf ("%lf",sub(x,y));
 	} else if(sinal == "/"){
-		printf ("%lf"div(x,y));
+		printf ("%lf",div(x,y));
 	} else if(sinal == "*"){
-		printf ("%lf"mult(x,y));
+		printf ("%lf",mult(x,y));
 	}
 	
 }

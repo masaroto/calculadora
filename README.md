@@ -1,6 +1,6 @@
 # calculadora
-##Funções
-- [ ]soma
+## Funções
+- [ ] soma
 
 
 

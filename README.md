@@ -1,6 +1,7 @@
 # calculadora
 ## Funções
 - [ ] soma
+- [ ] subtração
 
 
 

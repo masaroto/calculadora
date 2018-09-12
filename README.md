@@ -1,1 +1,15 @@
 # calculadora
+##Funções
+- [ ]soma
+
+
+
+
+
+
+
+
+
+
+
+
